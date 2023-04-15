@@ -1,0 +1,3 @@
+extension myTR on String {
+    
+}
