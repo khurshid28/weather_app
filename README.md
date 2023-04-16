@@ -1,4 +1,4 @@
-# app_for_test
+# weather app
 
 ## base_url = https://api.openweathermap.org/data
 
