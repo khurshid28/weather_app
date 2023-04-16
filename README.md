@@ -1,4 +1,4 @@
-# weather app
+# Weather app
 
 ## base_url = https://api.openweathermap.org/data
 
