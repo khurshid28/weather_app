@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: My first step
-        run: echo my fist action is done ${{ secrets.mysecret2 }} 
+        run: echo my fist action is done ${{ MyValue.mysecret2 }} 
