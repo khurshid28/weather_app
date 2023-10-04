@@ -1,0 +1,13 @@
+name: myaction_name
+
+on: 
+  push:
+    branches : [main]
+
+
+jobs:
+  job_1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: My first step
+        run: echo my fist action is done
