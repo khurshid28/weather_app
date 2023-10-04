@@ -1,1 +1,12 @@
 # ok
+
+name: example
+
+on: push
+
+jobs:
+  job_1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: My first step
+        run: echo ok my fisrt action is done
